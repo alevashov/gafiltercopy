@@ -1,0 +1,112 @@
+html {
+    background-color: #F4FCFF;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    font-size: 0.54cm;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #F4FCFF;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    font-size: 0.54cm;
+    font-weight: normal;
+    margin: 0;
+    padding: 0.64em;
+}
+
+table {
+    font-size: 100%;
+    width: 100%;
+}
+td {
+    vertical-align: top;
+}
+
+p {
+    font-size: 100%;
+}
+
+form {
+    margin: 0;
+}
+
+input {
+    font-size: 100%;
+}
+
+select {
+    font-size: 100%;
+}
+
+textarea {
+    font-size: 100%;
+}
+
+a {
+    color: #0000FF;
+    text-decoration: underline;
+}
+a:visited {
+    color: #000099;
+}
+
+table.authForm {
+    color: #CACACA;
+    font-size: 128%;
+    margin-top: 3.2em;
+	width: 45%;
+}
+table.authForm td {
+	padding: 0.2em;
+    vertical-align: middle;
+}
+table.authForm td.err {
+    color: #FF0000;
+}
+table.authForm td input {
+    font-size: 85%;
+    font-weight: bold;
+	padding: 0.15em;
+    width: 72%;
+}
+table.authForm td input.authInpSbm {
+    font-size: 50%;
+    padding: 0.64em;
+}
+
+table.admMain {
+    width: 100%;
+}
+table.admMain td.tdMenu p {
+    margin-bottom: 1.25em;
+}
+table.admMain td.tdMenu p a {
+    color: #0000FF;
+    text-decoration: underline;
+}
+table.admMain td.tdMenu p a:visited {
+    color: #0000FF;
+}
+
+table.rates {
+    width: auto;
+}
+table td input.r {
+    text-align: right;
+}
+
+table.relations {
+    font-size: 80%;
+    width: 100%;
+}
+table.relations td {
+    border-bottom: dotted 1px #777777;
+    padding: 0.7em;
+    vertical-align: middle;
+}
+table.relations tr.nobrdr td {
+    border: 0;
+}
